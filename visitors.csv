@@ -1,0 +1,7 @@
+name,page_load_time,time_on_site,mouse_movements,user_agent
+John,1.5,120,true,Chrome
+Sarah,0.8,180,true,Firefox
+Bot1,0.01,1,false,HeadlessChrome
+SuspiciousVisitor,0.15,5,false,Unknown
+RealUser,1.2,90,true,Safari
+FastBot,0.03,2,false,GoogleBot

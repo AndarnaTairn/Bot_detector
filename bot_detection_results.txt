@@ -1,0 +1,53 @@
+BOT DETECTION RESULTS
+============================================================
+
+user_001: 0% -  REAL HUMAN
+user_002: 0% -  REAL HUMAN
+user_003: 0% -  REAL HUMAN
+user_004: 120% -  BOT
+user_005: 0% -  REAL HUMAN
+user_006: 120% -  BOT
+user_007: 0% -  REAL HUMAN
+user_008: 120% -  BOT
+user_009: 0% -  REAL HUMAN
+user_010: 0% -  REAL HUMAN
+user_011: 100% -  BOT
+user_012: 0% -  REAL HUMAN
+user_013: 100% -  BOT
+user_014: 0% -  REAL HUMAN
+user_015: 0% -  REAL HUMAN
+user_016: 120% -  BOT
+user_017: 0% -  REAL HUMAN
+user_018: 120% -  BOT
+user_019: 0% -  REAL HUMAN
+user_020: 0% -  REAL HUMAN
+user_021: 65% -  BOT
+user_022: 0% -  REAL HUMAN
+user_023: 120% -  BOT
+user_024: 0% -  REAL HUMAN
+user_025: 0% -  REAL HUMAN
+user_026: 120% -  BOT
+user_027: 0% -  REAL HUMAN
+user_028: 120% -  BOT
+user_029: 0% -  REAL HUMAN
+user_030: 0% -  REAL HUMAN
+user_031: 65% -  BOT
+user_032: 0% -  REAL HUMAN
+user_033: 100% -  BOT
+user_034: 0% -  REAL HUMAN
+user_035: 0% -  REAL HUMAN
+user_036: 120% -  BOT
+user_037: 0% -  REAL HUMAN
+user_038: 120% -  BOT
+user_039: 0% -  REAL HUMAN
+user_040: 0% -  REAL HUMAN
+user_041: 80% -  BOT
+user_042: 0% -  REAL HUMAN
+user_043: 120% -  BOT
+user_044: 0% -  REAL HUMAN
+user_045: 0% -  REAL HUMAN
+user_046: 120% -  BOT
+user_047: 0% -  REAL HUMAN
+user_048: 0% -  REAL HUMAN
+user_049: 120% -  BOT
+user_050: 0% -  REAL HUMAN

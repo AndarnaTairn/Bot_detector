@@ -1,0 +1,51 @@
+name,page_load_time,time_on_site,mouse_movements,user_agent
+user_001,1.2,95,true,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0
+user_002,0.9,120,true,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Safari/537.36
+user_003,1.5,180,true,Mozilla/5.0 (X11; Linux x86_64) Firefox/121.0
+user_004,0.02,1,false,Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 HeadlessChrome/120.0
+user_005,1.1,85,true,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Safari/605.1.15
+user_006,0.05,2,false,Googlebot/2.1 (+http://www.google.com/bot.html)
+user_007,1.3,110,true,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/119.0
+user_008,0.01,0.5,false,Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 HeadlessChrome/120.0
+user_009,0.8,95,true,Mozilla/5.0 (Android 13; Mobile; rv:109.0) Firefox/121.0
+user_010,1.4,200,true,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Chrome/120.0
+user_011,0.08,3,false,curl/7.64.1
+user_012,1.2,140,true,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Edge/120.0
+user_013,0.03,1,false,python-requests/2.31.0
+user_014,0.95,105,true,Mozilla/5.0 (iPad; CPU OS 17_0 like Mac OS X) Safari/605.1.15
+user_015,1.6,250,true,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0
+user_016,0.04,2,false,Baiduspider/2.0
+user_017,1.1,90,true,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Firefox/121.0
+user_018,0.02,1,false,Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 HeadlessChrome/120.0
+user_019,1.3,130,true,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0
+user_020,0.9,75,true,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Safari/537.36
+user_021,0.15,5,false,Mozilla/5.0 (Unknown) Unknown/1.0
+user_022,1.2,160,true,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0
+user_023,0.06,2,false,Scrapybot/1.0
+user_024,1.4,145,true,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Chrome/120.0
+user_025,0.99,88,true,Mozilla/5.0 (X11; Linux x86_64) Firefox/121.0
+user_026,0.01,0.5,false,Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 HeadlessChrome/120.0
+user_027,1.1,120,true,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Edge/120.0
+user_028,0.05,1,false,Bingbot/2.0
+user_029,1.5,210,true,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Safari/537.36
+user_030,1.2,100,true,Mozilla/5.0 (Android 13; Mobile; rv:109.0) Chrome/120.0
+user_031,0.2,8,false,Mozilla/5.0 (Windows) Unknown/1.0
+user_032,0.9,110,true,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Firefox/121.0
+user_033,0.04,1.5,false,facebookexternalhit/1.1
+user_034,1.3,175,true,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Chrome/120.0
+user_035,1.1,95,true,Mozilla/5.0 (X11; Linux x86_64) Firefox/121.0
+user_036,0.02,1,false,Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 HeadlessChrome/120.0
+user_037,1.4,220,true,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0
+user_038,0.07,2,false,YandexBot/3.0
+user_039,1.2,130,true,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Safari/605.1.15
+user_040,0.98,105,true,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Safari/537.36
+user_041,0.12,4,false,Mozilla/5.0 (Linux) Unknown/1.0
+user_042,1.5,190,true,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Firefox/121.0
+user_043,0.03,1,false,Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 HeadlessChrome/120.0
+user_044,1.1,115,true,Mozilla/5.0 (Android 13; Mobile) Safari/537.36
+user_045,0.9,100,true,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Edge/120.0
+user_046,0.06,2,false,DuckDuckBot/1.0
+user_047,1.3,145,true,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Firefox/121.0
+user_048,1.2,135,true,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0
+user_049,0.05,1.5,false,LinkedInBot/1.0
+user_050,1.4,200,true,Mozilla/5.0 (iPad; CPU OS 17_0 like Mac OS X) Safari/605.1.15
